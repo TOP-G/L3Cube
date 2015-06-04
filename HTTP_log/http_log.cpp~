@@ -201,7 +201,5 @@ int main(){
 	cout<<"Log file last Date:"<<l1[noOfLines-1].date<<endl;
 	cout<<"-------------------------------------------------------------------------"<<endl;
 
-	system("Rscript analyse.r");
-
 	return 0;
 }
