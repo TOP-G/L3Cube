@@ -5,9 +5,7 @@ Problem Statement - Write a code to display the data in PCAP files.
 *****USAGE*****
 $ python PCAPFile.py
 
-Note: 
-1) scapy must be installed.
-2) put all the pcap files in the same folder where the program is stored.
+Note: scapy must be installed
 
 '''
 
